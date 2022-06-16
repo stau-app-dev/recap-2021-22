@@ -1,0 +1,16 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-60a150a2.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "css": [
+      "entry.d43f2022.css"
+    ],
+    "assets": [
+      "logo.a62597f1.jpg",
+      "app.e48d84df.png",
+      "app_website.55f07637.png",
+      "school_website.e15b3ce5.png"
+    ]
+  }
+}
