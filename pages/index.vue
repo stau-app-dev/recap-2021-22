@@ -167,7 +167,7 @@
 
 <script lang="ts">
 export default {
-  name: 'App',
+  name: 'IndexPage',
   data() {
     return {
       options: {
