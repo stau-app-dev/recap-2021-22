@@ -8,9 +8,6 @@ export default defineNuxtConfig({
     title: 'Recap 2021-22',
     link: [{ rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' }],
   },
-  router: {
-    base: process.env.GHPAGES ? '/recap-2021-22/' : '/',
-  },
   vite: {
     plugins: [eslintPlugin()],
   },
